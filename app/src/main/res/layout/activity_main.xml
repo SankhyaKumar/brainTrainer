@@ -20,7 +20,7 @@
             android:layout_below="@+id/textView4"
             android:layout_centerHorizontal="true"
             android:onClick="playAgain"
-            android:text="Button" />
+            android:text="play again" />
 
         <TextView
             android:id="@+id/textView4"
